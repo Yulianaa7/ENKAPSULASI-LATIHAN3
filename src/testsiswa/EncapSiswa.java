@@ -35,7 +35,7 @@ public class EncapSiswa {
         name = newName;
     }
     
-    //emthod void getAddress
+    //method void getAddress
     public void setAddress(String newAddress){
         address = newAddress;
     }
